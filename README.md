@@ -17,6 +17,30 @@ The project was completed as my undergraduate Final Year Project (FYP) and combi
 
 ---
 
+## Key Features
+
+- 🔐 User authentication and account management
+- 🎭 AI-powered deepfake face generation using InsightFace
+- 🧠 Deepfake image detection using MTCNN and InceptionResNetV1
+- 🛡️ Research on adversarial watermarking for deepfake prevention
+- 🌐 Flask-based web application with image upload and download support
+- 📊 Practical integration of deep learning models into a complete AI system
+
+---
+
+## Research Contributions
+
+This project combines practical AI implementation with research into trustworthy AI. Rather than focusing solely on model development, it integrates multiple state-of-the-art deep learning techniques into a unified web platform while investigating approaches to improve the security of AI-generated media.
+
+Key research contributions include:
+
+- Integration of deepfake generation and detection into one platform.
+- Comparative study of deepfake prevention approaches.
+- Exploration of adversarial watermarking techniques.
+- End-to-end deployment of AI models using Flask.
+
+---
+
 ## Project Architecture
 
 ![Project Architecture](images/Project Architecture.png)
@@ -28,6 +52,7 @@ The project was completed as my undergraduate Final Year Project (FYP) and combi
 ![AI Workflow](images/AI Pipeline.png)
 <img width="422" height="359" alt="AI Pipeline" src="https://github.com/user-attachments/assets/2797584b-52bd-42da-8c48-5ac947d0416e" />
 
+---
 
 ## Technologies
 
@@ -46,6 +71,30 @@ The project was completed as my undergraduate Final Year Project (FYP) and combi
 
 ---
 
+## Future Work
+
+Future improvements include:
+
+- Video-based deepfake detection
+- Real-time webcam detection
+- Transformer-based vision models
+- Explainable AI for detection decisions
+- Robust adversarial watermarking
+- Federated learning for privacy-preserving detection
+
+---
+
+## References
+
+- InsightFace
+- Buffalo_L
+- MTCNN
+- InceptionResNetV1 (FaceNet)
+- PyTorch
+- OpenCV
+- Flask
+
+---
 ## Repository Status
 
 This repository showcases the project's architecture, methodology, and research contribution.
