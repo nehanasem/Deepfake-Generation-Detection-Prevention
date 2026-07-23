@@ -101,4 +101,3 @@ This repository showcases the project's architecture, methodology, and research 
 
 The source code is not publicly available because it was completed as part of an undergraduate research project.
 
-Additional documentation, architecture diagrams, screenshots, and a demonstration video will be added soon.
