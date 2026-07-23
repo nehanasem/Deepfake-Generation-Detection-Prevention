@@ -17,6 +17,18 @@ The project was completed as my undergraduate Final Year Project (FYP) and combi
 
 ---
 
+## Project Architecture
+
+![Project Architecture](images/Project Architecture.png)
+<img width="655" height="427" alt="Project Architecture" src="https://github.com/user-attachments/assets/2ad48767-3322-4e9c-97e5-1ffec3ddc9b3" />
+
+
+## AI Model Workflow
+
+![AI Workflow](images/AI Pipeline.png)
+<img width="422" height="359" alt="AI Pipeline" src="https://github.com/user-attachments/assets/2797584b-52bd-42da-8c48-5ac947d0416e" />
+
+
 ## Technologies
 
 - Python
